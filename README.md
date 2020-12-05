@@ -1,7 +1,7 @@
-# Node_Assignment#
+# Node_Assignment
 APIs are created for displaying user's list with pagination, users with selected id's and admins only.
 
-#Setup
+# Setup
 Make sure to follow all these steps as explained below to run this application.
 
 --Install the Dependencies from the project folder, install the dependencies:
